@@ -3,9 +3,9 @@ package com.example.training
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class bob : AppCompatActivity() {
+class identityActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_bob)
+        setContentView(R.layout.activity_identity)
     }
 }
