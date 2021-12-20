@@ -9,16 +9,6 @@
         android:layout_height="60dp"
         android:background="@android:color/holo_red_light">
 
-        <ImageView
-            android:id="@+id/imageViewBack"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:visibility="gone"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="10dp"
-
-            />
-
         <TextView
             android:id="@+id/textViewTitle"
             android:text="Epsi"
